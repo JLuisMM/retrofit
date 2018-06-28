@@ -9,7 +9,7 @@ import retrofit2.http.GET;
  * Created by luis on 8/7/17.
  */
 
-interface StudentService
+public interface StudentService
 {
     String BASE_URL = "http://www.mocky.io/";
 
